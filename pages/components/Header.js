@@ -1,4 +1,4 @@
-const App = () => {
+const Header = () => {
   return (
     <header className="p-3 bg-dark text-white">
       <div className="container">
@@ -61,4 +61,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Header;
