@@ -11,7 +11,7 @@ const Meta = ({ title, keyword, description }) => {
     </Head>
   );
 };
-defaultMeta = {
+Meta.defaultProps = {
   title: "News Room",
   keyword: "English news, best news, today news, update news",
   description: "Be updated news any country and any time",
