@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h2>Hello Next js</h2>
+      <h2 className="text-center">Hello Next js</h2>
     </div>
   );
 }
